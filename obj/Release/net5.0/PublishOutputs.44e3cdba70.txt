@@ -1,0 +1,6 @@
+E:\Developpement\projet C#\ApiConnect.exe
+E:\Developpement\projet C#\ApiConnect.dll
+E:\Developpement\projet C#\ApiConnect.deps.json
+E:\Developpement\projet C#\ApiConnect.runtimeconfig.json
+E:\Developpement\projet C#\ApiConnect.pdb
+E:\Developpement\projet C#\Newtonsoft.Json.dll
